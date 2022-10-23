@@ -14,6 +14,6 @@ provider "azurerm" {
   client_id = "9a308772-f5f5-4981-8f06-5fa78d2855a3"
   client_secret = "hQa8Q~1xAW7lcj.VMfjXjXAUtj~rQQQO6fUGzad~"
   features {
-    
+    #add other codes here
   }
 }
